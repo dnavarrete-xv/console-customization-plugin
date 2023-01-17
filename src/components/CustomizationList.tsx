@@ -183,7 +183,7 @@ const CustomizationList = () => {
   };
   return (
     <>
-      <ListPageHeader title="Customization">
+      <ListPageHeader title="DiegoFeo">
         <ListPageCreateDropdown items={createItems} onClick={onCreate}>
           Create
         </ListPageCreateDropdown>

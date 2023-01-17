@@ -14,18 +14,18 @@
     "type": "console.page/route",
     "properties": {
       "exact": true,
-      "path": "/customization",
+      "path": "/DiegoFeo",
       "component": { "$codeRef": "CustomizationList" }
     }
   },
   {
     "type": "console.navigation/href",
     "properties": {
-      "id": "customization",
-      "name": "Customization",
-      "href": "/customization",
+      "id": "DiegoFeo",
+      "name": "DiegoFeo",
+      "href": "/DiegoFeo",
       "perspective": "admin",
-      "section": "administration"
+      "section": "home"
     }
   },
   {

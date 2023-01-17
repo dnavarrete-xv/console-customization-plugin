@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
         - name: console-customization-plugin
-          image: quay.io/spadgett/console-customization-plugin:latest
+          image: quay.io/dnavarrete-xv/console-customization-plugin:latest
           ports:
             - containerPort: 9443
               protocol: TCP
