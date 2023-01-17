@@ -2,7 +2,7 @@
   "name": "console-customization-plugin",
   "version": "0.0.1",
   "private": true,
-  "repository": "git@github.com:spadgett/console-customization-plugin.git",
+  "repository": "git@github.com:dnavarrete-xv/console-customization-plugin.git",
   "scripts": {
     "clean": "rm -rf dist",
     "build": "yarn clean && NODE_ENV=production yarn ts-node node_modules/.bin/webpack",
